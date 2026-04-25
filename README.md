@@ -4,7 +4,7 @@ A ChatGPT-style AI assistant built with HTML, CSS & JavaScript
 using the Anthropic Claude API.
 
 ## Live Demo
-https://yourusername.github.io/aura-ai
+https://piyushthakur01.github.io/aura-ai/
 
 ## Tech Stack
 HTML5 · CSS3 · Vanilla JS · Claude API · Fetch API
